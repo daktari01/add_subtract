@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: add-subtract
+Version: 0.0.1
+Summary: Add or subtract integers
+Home-page: https://github.com/daktari01/add_subtract
+Author: daktari01
+Author-email: dindijjames@gmail.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
